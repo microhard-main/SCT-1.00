@@ -79,11 +79,10 @@
 770 PRINT "==================================================="
 780 END
 900 REM FAILURE HANDLER
-910 CREDITS = CREDITS - 100000000000#
+910 CREDITS = CREDITS - 100000000000
 920 PRINT "-100,000,000,000 Social Credits"
 930 PRINT "Your execution date is: #####################"
 940 PRINT "==================================================="
 950 PRINT "Your social credits: "; CREDITS
 960 PRINT "==================================================="
 970 END
-
