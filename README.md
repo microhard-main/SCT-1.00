@@ -1,4 +1,4 @@
-# SCT-1.00
+# Social Credit Test 1.00
 version 1.00 on github
 
 the files are from the .img file
